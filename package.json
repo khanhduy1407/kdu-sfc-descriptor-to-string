@@ -1,0 +1,20 @@
+{
+  "name": "kdu-sfc-descriptor-to-string",
+  "version": "1.0.0",
+  "description": "Convert SFCDescriptor to source",
+  "main": "index.js",
+  "homepage": "https://github.com/khanhduy1407/kdu-sfc-descriptor-to-string",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khanhduy1407/kdu-sfc-descriptor-to-string.git"
+  },
+  "keywords": ["kdu", "sfc", "parse", "stringify"],
+  "author": "NKDuy",
+  "license": "MIT",
+  "devDependencies": {
+    "kdu-template-compiler": "^2.5.24"
+  },
+  "dependencies": {
+    "indent-string": "^3.2.0"
+  }
+}
